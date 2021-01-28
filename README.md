@@ -1,1 +1,1 @@
-# booking-info
+# bookstore-app
